@@ -1,3 +1,5 @@
+![Mapbiomas](https://github.com/mapbiomas/.github/blob/main/images/mapbiomas-logo.jpg)
+
 # 🌍 Mapbiomas Networking
 
 > **Empowering Land Use and Cover Analysis**  
