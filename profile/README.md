@@ -1,13 +1,8 @@
 ![Mapbiomas](https://github.com/mapbiomas/.github/blob/main/images/panel.png)
 
-# 🌍 Mapbiomas Networking
-
-> **Empowering Land Use and Cover Analysis**  
-> Access our open-source tools and resources to analyze and monitor land cover in South America and Indonesia.
-
 ## 🚀 Overview
 
-Welcome to the official repository hub of Mapbiomas, where we provide a comprehensive set of scripts and tools for processing land use and cover data across various biomes in Brazil.
+Welcome to the official repository hub of Mapbiomas, where we provide a comprehensive set of scripts and tools for processing land use and cover data across various biomes South America and Indonesia.
 
 ## 📁 Repository Summary
 
@@ -15,7 +10,7 @@ Welcome to the official repository hub of Mapbiomas, where we provide a comprehe
 
 Explore our specialized resources and tools designed specifically for analyzing and monitoring land use and cover in Brazil.
 
-#### 🌿 Biomes of Brazil
+#### 🌍 Biomes of Brazil
 
 - [**Amazon**](https://github.com/mapbiomas/brazil-amazon)  
 - [**Atlantic Forest**](https://github.com/mapbiomas/brazil-atlantic-forest)  
@@ -24,7 +19,7 @@ Explore our specialized resources and tools designed specifically for analyzing 
 - [**Pampa**](https://github.com/mapbiomas/brazil-pampa)  
 - [**Pantanal**](https://github.com/mapbiomas/brazil-pantanal)  
 
-#### 🛠️ Cross-Cutting Themes in Brazil
+#### 🌍 Cross-Cutting Themes in Brazil
 
 - [**Agriculture**](https://github.com/mapbiomas/brazil-agriculture)  
 - [**Aquaculture**](https://github.com/mapbiomas/brazil-aquaculture)  
