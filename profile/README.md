@@ -1,4 +1,4 @@
-![Mapbiomas](https://github.com/mapbiomas/.github/blob/main/images/mapbiomas-logo.jpg)
+![Mapbiomas](https://github.com/mapbiomas/.github/blob/main/images/panel.png)
 
 # 🌍 Mapbiomas Networking
 
