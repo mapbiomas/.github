@@ -1,5 +1,5 @@
 
-# Mapbiomas Brazil on github
+# Mapbiomas
 
 > Here is available all the scripts used for processing mapbiomas collections.
 
