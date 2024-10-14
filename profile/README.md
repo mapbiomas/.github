@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-Welcome to the official repository hub of Mapbiomas, where we provide a comprehensive set of scripts and tools for processing land use and cover data across various biomes South America and Indonesia.
+Welcome to the official repository hub of Mapbiomas, where we provide a comprehensive set of scripts and tools for processing land use and cover data across various biomes in South America and Indonesia.
 
 ## 📁 Repository Summary
 
