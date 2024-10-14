@@ -57,6 +57,9 @@ Toolkits to enhance your interaction with Mapbiomas data:
 - [**Mapbiomas User Toolkit**](https://github.com/mapbiomas/user-toolkit)  
 - [**Mapbiomas Integration Toolkit**](https://github.com/mapbiomas/brazil-integration-toolkit)  
 
+### 🗄️ Assets
+- [**MapBiomas Brazil Collections**](https://github.com/mapbiomas/.github/blob/main/assets/brazil.md)
+  
 ## 🌟 Explore More
 
 Visit our websites to access Mapbiomas products:  
