@@ -73,4 +73,4 @@
 - [Transitions v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection9/mapbiomas_collection90_transitions_v1)
 
 ## Sentinel 2 Beta
-- [Integration v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/sentinel-2_beta/mapbiomas_collection_sentinel2_integration_v1)
+- [Integration v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection_S2_beta/collection_LULC_S2_beta)
