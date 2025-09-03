@@ -50,7 +50,7 @@ Repositories for biome-specific mosaics and tools for creating them:
 
 - [**Biomes**](https://github.com/mapbiomas/brazil-mosaics)  
 - [**Mosaic Toolkit**](https://github.com/mapbiomas/brazil-mosaic-toolkit)
-- [**Countries**](https://github.com/mapbiomas/coutries-mosaics)  
+- [**Countries**](https://github.com/mapbiomas/countries-mosaics)  
 
 ### 🛠️ Toolkits
 
