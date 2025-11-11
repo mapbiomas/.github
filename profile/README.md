@@ -36,7 +36,8 @@ Specialized repositories that focus on key environmental products:
 - [**Deforestation and Secondary Vegetation**](https://github.com/mapbiomas/brazil-deforestation-sec-vegetation)  
 - [**Fire**](https://github.com/mapbiomas/brazil-fire)
 - [**Soil**](https://github.com/mapbiomas/brazil-soil)
-- [**Water**](https://github.com/mapbiomas/brazil-water)  
+- [**Water**](https://github.com/mapbiomas/brazil-water)
+- [**Climate Risk**] (https://github.com/mapbiomas/brazil_climate_risk)
 
 ### 📊 Analysis
 
