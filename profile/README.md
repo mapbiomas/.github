@@ -37,7 +37,7 @@ Specialized repositories that focus on key environmental products:
 - [**Fire**](https://github.com/mapbiomas/brazil-fire)
 - [**Soil**](https://github.com/mapbiomas/brazil-soil)
 - [**Water**](https://github.com/mapbiomas/brazil-water)
-- [**Climate Risk**] (https://github.com/mapbiomas/brazil_climate_risk)
+- [**Climate Risk**](https://github.com/mapbiomas/brazil_climate_risk)
 
 ### 📊 Analysis
 
