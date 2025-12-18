@@ -15,11 +15,15 @@ Welcome to the official repository hub of Mapbiomas, where we provide a comprehe
   - [**Patagonia**](https://github.com/mapbiomas/argentina-patagonia)
   - [**Urban**](https://github.com/mapbiomas/argentina-urban-areas)
 - Bolivia
+  - LULC
+  - [**Fire**](https://github.com/mapbiomas/bolivia-fire)
 - [**Brazil (All Initiatives)**](https://github.com/mapbiomas/Brazil_general/blob/main/README.md)
 - Chile
   - LULC
   - [**Fire**](https://github.com/mapbiomas/chile-fire)
 - Colômbia
+  - LULC
+  - [**Fire**](https://github.com/mapbiomas/colombia-fire)
 - Dem. Rep. Congo
 - Ecuador
 - Escudo das Guianas (Guiana, Guiana Francesa e Suriname)
@@ -27,6 +31,8 @@ Welcome to the official repository hub of Mapbiomas, where we provide a comprehe
 - Indonesia
 - Mexico
 - Paraguay
+  - LULC
+  - [**Fire**](https://github.com/mapbiomas/paraguay-fire)
 - Peru
   - LULC
   - [**Fire**](https://github.com/mapbiomas/peru-fire)
