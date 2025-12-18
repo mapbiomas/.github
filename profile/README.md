@@ -1,13 +1,11 @@
 ![Mapbiomas](https://github.com/mapbiomas/.github/blob/main/images/panel.png)
 
 ## 🚀 Overview
-
 Welcome to the official repository hub of Mapbiomas, where we provide a comprehensive set of scripts and tools for processing land use and cover data across various biomes in South America and Indonesia.
 
 ## 📁 Repository Summary
 
 ### Countries Initiatives
-
 - [**Argentina (All Initiatives)**](https://github.com/mapbiomas-argentina-ok)
 - Bolivia
   - LULC
@@ -37,7 +35,6 @@ Welcome to the official repository hub of Mapbiomas, where we provide a comprehe
 - [**Antartida**](https://github.com/mapbiomas/Antartica)
 
 ### 🖼️ Mosaics
-
 Repositories for biome-specific mosaics and tools for creating them:
 
 - [**Countries**](https://github.com/mapbiomas/countries-mosaics)  
@@ -45,14 +42,8 @@ Repositories for biome-specific mosaics and tools for creating them:
 
 
 ### 🛠️ Toolkits
-
 Toolkits to enhance your interaction with Mapbiomas data:
-
 - [**Mapbiomas User Toolkit**](https://github.com/mapbiomas/user-toolkit)  
-- [**Mapbiomas Integration Toolkit**](https://github.com/mapbiomas/brazil-integration-toolkit)  
-
-### 🗄️ Assets
-- [**MapBiomas Brazil Collections**](https://github.com/mapbiomas/.github/blob/main/assets/brazil.md)
   
 ## 🌟 Explore More
 
