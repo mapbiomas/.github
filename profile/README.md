@@ -34,7 +34,7 @@ Welcome to the official repository hub of Mapbiomas, where we provide a comprehe
   - LULC
   - [**Fire**](https://github.com/mapbiomas/paraguay-fire)
 - Peru
-  - LULC
+  - [**LULC**](https://github.com/mapbiomas-peru)
   - [**Fire**](https://github.com/mapbiomas/peru-fire)
 - Uruguay
 - Venezuela
