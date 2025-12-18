@@ -15,7 +15,7 @@ Welcome to the official repository hub of Mapbiomas, where we provide a comprehe
   - [**Patagonia**](https://github.com/mapbiomas/argentina-patagonia)
   - [**Urban**](https://github.com/mapbiomas/argentina-urban-areas)
 - Bolivia
-- [**Brazil - All Initiatives**](https://github.com/mapbiomas/Brazil_general/blob/main/README.md)
+- [**Brazil (All Initiatives)**](https://github.com/mapbiomas/Brazil_general/blob/main/README.md)
 - Chile
   - LULC
   - [**Fire**](https://github.com/mapbiomas/chile-fire)
