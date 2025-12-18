@@ -8,12 +8,7 @@ Welcome to the official repository hub of Mapbiomas, where we provide a comprehe
 
 ### Countries Initiatives
 
-- Argentina
-  - [**Atlantic Forest**](https://github.com/mapbiomas/argentina-atlantic-forest)
-  - [**Monte Puna and High Andes**](https://github.com/mapbiomas/argentina-monte-puna-and-high-andes)
-  - [**Pampa**](https://github.com/mapbiomas/argentina-pampa)
-  - [**Patagonia**](https://github.com/mapbiomas/argentina-patagonia)
-  - [**Urban**](https://github.com/mapbiomas/argentina-urban-areas)
+- [**Argentina** (All Initiatives)**](https://github.com/mapbiomas-argentina-ok)
 - Bolivia
   - LULC
   - [**Fire**](https://github.com/mapbiomas/bolivia-fire)
