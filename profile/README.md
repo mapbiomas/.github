@@ -41,9 +41,10 @@ Repositories for biome-specific mosaics and tools for creating them:
 - Mosaic Toolkit
 
 
-### 🛠️ Toolkits
+### 🛠️ Toolkits and Training
 Toolkits to enhance your interaction with Mapbiomas data:
-- [**Mapbiomas User Toolkit**](https://github.com/mapbiomas/user-toolkit)  
+- [**Mapbiomas User Toolkit**](https://github.com/mapbiomas/user-toolkit)
+- [**Training**](https://github.com/mapbiomas/training)
   
 ## 🌟 Explore More
 
