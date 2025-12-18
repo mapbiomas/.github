@@ -9,9 +9,16 @@ Welcome to the official repository hub of Mapbiomas, where we provide a comprehe
 ### Countries Initiatives
 
 - Argentina
+  - [**Atlantic Forest**](https://github.com/mapbiomas/argentina-atlantic-forest)
+  - [**Monte Puna and High Andes**](https://github.com/mapbiomas/argentina-monte-puna-and-high-andes)
+  - [**Pampa**](https://github.com/mapbiomas/argentina-pampa)
+  - [**Patagonia**](https://github.com/mapbiomas/argentina-patagonia)
+  - [**Urban**](https://github.com/mapbiomas/argentina-urban-areas)
 - Bolivia
-- [**Brasil**](https://github.com/mapbiomas/Brazil_general/blob/main/README.md)
+- [**Brazil**](https://github.com/mapbiomas/Brazil_general/blob/main/README.md)
 - Chile
+  - LULC
+  - [**Fire**](https://github.com/mapbiomas/chile-fire)
 - Colômbia
 - Dem. Rep. Congo
 - Ecuador
@@ -21,8 +28,12 @@ Welcome to the official repository hub of Mapbiomas, where we provide a comprehe
 - Mexico
 - Paraguay
 - Peru
+  - LULC
+  - [**Fire**](https://github.com/mapbiomas/peru-fire)
 - Uruguay
 - Venezuela
+
+- [**Antartida**](https://github.com/mapbiomas/Antartica)
 
 ### 🖼️ Mosaics
 
