@@ -51,7 +51,7 @@ Tools for assessing the accuracy of our data products:
 Repositories for biome-specific mosaics and tools for creating them:
 
 - [**Countries**](https://github.com/mapbiomas/countries-mosaics)  
-- [**Mosaic Toolkit**](https://github.com/mapbiomas/brazil-mosaic-toolkit)
+- Mosaic Toolkit
 
 
 ### 🛠️ Toolkits
