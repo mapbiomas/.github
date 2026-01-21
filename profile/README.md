@@ -6,7 +6,7 @@ Welcome to the official repository hub of Mapbiomas, where we provide a comprehe
 ## 📁 Repository Summary
 
 ### Countries Initiatives
-- [**Argentina (All Initiatives)**]([https://github.com/mapbiomas-argentina-ok](https://github.com/mapbiomas/argentina-all-initiatives))
+- [**Argentina (All Initiatives)**](https://github.com/mapbiomas/argentina-all-initiatives)
 - Bolivia
   - LULC
   - [**Fire**](https://github.com/mapbiomas/bolivia-fire)
