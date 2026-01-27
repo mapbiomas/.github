@@ -8,15 +8,9 @@ Welcome to the official repository hub of Mapbiomas, where we provide a comprehe
 ### Countries Initiatives
 - [**Argentina (All Initiatives)**](https://github.com/mapbiomas/argentina-all-initiatives)
 - Bolivia
-  - LULC
-  - [**Fire**](https://github.com/mapbiomas/bolivia-fire)
 - [**Brazil (All Initiatives)**](https://github.com/mapbiomas/brazil-all-initiatives)
 - Chile
-  - LULC
-  - [**Fire**](https://github.com/mapbiomas/chile-fire)
 - Colômbia
-  - LULC
-  - [**Fire**](https://github.com/mapbiomas/colombia-fire)
 - Dem. Rep. Congo
 - Ecuador
 - Escudo das Guianas (Guiana, Guiana Francesa e Suriname)
@@ -24,14 +18,9 @@ Welcome to the official repository hub of Mapbiomas, where we provide a comprehe
 - Indonesia
 - Mexico
 - Paraguay
-  - LULC
-  - [**Fire**](https://github.com/mapbiomas/paraguay-fire)
-- Peru
-  - [**LULC**](https://github.com/mapbiomas-peru)
-  - [**Fire**](https://github.com/mapbiomas/peru-fire)
+- [**Peru - (All Initiatives)**](https://github.com/mapbiomas-peru)
 - Uruguay
 - Venezuela
-
 - [**Antartida**](https://github.com/mapbiomas/Antartica)
 
 ### 🖼️ Mosaics
