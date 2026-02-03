@@ -11,12 +11,12 @@ Welcome to the official repository hub of Mapbiomas, where we provide a comprehe
 - [**Brazil**](https://github.com/mapbiomas/brazil-all-initiatives)
 - Chile
 - Colômbia
-- Dem. Rep. Congo  (soon - develpoing first collection)
+- Dem. Rep. Congo  (SOON - develpoing first collection)
 - Ecuador
-- Escudo das Guianas (Guiana, Guiana Francesa e Suriname)
-- India (soon - develpoing first collection)
+- Escudo das Guianas (Guiana, Guiana Francesa e Suriname)   (SOON - develpoing first collection)
+- India (SOON - develpoing first collection)
 - Indonesia
-- Mexico  (soon - develpoing first collection)
+- Mexico  (SOON - develpoing first collection)
 - Paraguay
 - [**Peru**](https://github.com/mapbiomas-peru)
 - Uruguay
