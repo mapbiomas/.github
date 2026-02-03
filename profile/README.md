@@ -6,9 +6,9 @@ Welcome to the official repository hub of Mapbiomas, where we provide a comprehe
 ## 📁 Repository Summary
 
 ### Countries Initiatives
-- [**Argentina (All Initiatives)**](https://github.com/mapbiomas/argentina-all-initiatives)
+- [**Argentina**](https://github.com/mapbiomas/argentina-all-initiatives)
 - Bolivia
-- [**Brazil (All Initiatives)**](https://github.com/mapbiomas/brazil-all-initiatives)
+- [**Brazil**](https://github.com/mapbiomas/brazil-all-initiatives)
 - Chile
 - Colômbia
 - Dem. Rep. Congo
@@ -18,7 +18,7 @@ Welcome to the official repository hub of Mapbiomas, where we provide a comprehe
 - Indonesia
 - Mexico
 - Paraguay
-- [**Peru - (All Initiatives)**](https://github.com/mapbiomas-peru)
+- [**Peru**](https://github.com/mapbiomas-peru)
 - Uruguay
 - Venezuela
 - [**Antartida**](https://github.com/mapbiomas/Antartica)
