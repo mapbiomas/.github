@@ -15,7 +15,7 @@ Welcome to the official repository hub of Mapbiomas, where we provide a comprehe
 - Ecuador
 - Escudo das Guianas (Guiana, Guiana Francesa e Suriname)   (SOON - develpoing first collection)
 - India (SOON - develpoing first collection)
-- Indonesia
+- [**Indonesia**](https://github.com/mapbiomas-indonesia)
 - Mexico  (SOON - develpoing first collection)
 - Paraguay
 - [**Peru**](https://github.com/mapbiomas-peru)
