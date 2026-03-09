@@ -72,5 +72,11 @@
 - [Integration v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection9/mapbiomas_collection90_integration_v1)
 - [Transitions v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection9/mapbiomas_collection90_transitions_v1)
 
+## Collection 10
+- [Integration v2](projects/mapbiomas-public/assets/brazil/lulc/collection10/mapbiomas_brazil_collection10_integration_v2)
+
+## Collection 10.1
+- [Integration v1](projects/mapbiomas-public/assets/brazil/lulc/collection10_1/mapbiomas_brazil_collection10_1_coverage_v1)
+
 ## Sentinel 2 Beta
 - [Integration v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection_S2_beta/collection_LULC_S2_beta)
