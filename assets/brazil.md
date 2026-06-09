@@ -1,10 +1,10 @@
 # MapBiomas Brazil Collections
 
-## Collection 2.3
+## Collection 2.3 - 2000 a 2016
 - [Integration v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection2_3/mapbiomas_collection23_integration_v1)
 - [Transitions v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection2_3/mapbiomas_collection23_transitions_v1)
 
-## Collection 3
+## Collection 3 - 1985 a 2017
 - [Integration v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection3/mapbiomas_collection30_integration_v1)
 - [Transitions v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection3/mapbiomas_collection30_transitions_v1)
 
