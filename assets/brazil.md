@@ -8,19 +8,19 @@
 - [Integration v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection3/mapbiomas_collection30_integration_v1)
 - [Transitions v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection3/mapbiomas_collection30_transitions_v1)
 
-## Collection 3.1
+## Collection 3.1 - 1985 a 2018
 - [Integration v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection3_1/mapbiomas_collection31_integration_v1)
 - [Transitions v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection3_1/mapbiomas_collection31_transitions_v1)
 
-## Collection 4
+## Collection 4 - 1985 a 2018
 - [Integration v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection4/mapbiomas_collection40_integration_v1)
 - [Transitions v3](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection4/mapbiomas_collection40_transitions_v3)
 
-## Collection 4.1
+## Collection 4.1 - 1985 a 2018
 - [Integration v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection4_1/mapbiomas_collection41_integration_v1)
 - [Transitions v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection4_1/mapbiomas_collection41_transitions_v1)
 
-## Collection 5
+## Collection 5 - 1985 a 2019
 - [Burned Cover Cumulated v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection5/mapbiomas_collection50_burned_cover_cumulated_v1)
 - [Burned Cover v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection5/mapbiomas_collection50_burned_cover_v1)
 - [Deforestation Primary Vegetation v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection5/mapbiomas_collection50_deforestation_primary_vegetation_v1)
@@ -32,7 +32,7 @@
 - [Secondary Vegetation Age v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection5/mapbiomas_collection50_secondary_vegetation_age_v1)
 - [Secondary Vegetation v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection5/mapbiomas_collection50_secondary_vegetation_v1)
 
-## Collection 6
+## Collection 6 - 1985 a 2020
 - [Fire Collection 1 Annual Burned Coverage v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection6/mapbiomas-fire-collection1-annual-burned-coverage-1)
 - [Fire Collection 1 Fire Frequency v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection6/mapbiomas-fire-collection1-fire-frequency-1)
 - [Fire Collection 1 Monthly Burned Coverage v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection6/mapbiomas-fire-collection1-monthly-burned-coverage-1)
@@ -51,7 +51,7 @@
 - [Water Collection 1 Annual Water Coverage v2](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection6/mapbiomas_water_collection1_annual_water_coverage_v2)
 - [Water Collection 1 Water Frequency v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection6/mapbiomas_water_collection1_water_frequency_v1)
 
-## Collection 7
+## Collection 7 - 1985 a 2021
 - [Burned Cover Cumulated v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection7/mapbiomas_collection70_burned_cover_cumulated_v1)
 - [Deforestation Frequency v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection7/mapbiomas_collection70_deforestation_frequency_v1)
 - [Deforestation Secondary Vegetation v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection7/mapbiomas_collection70_deforestation_secondary_vegetation_v1)
@@ -61,24 +61,24 @@
 - [Secondary Vegetation Age v2](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection7/mapbiomas_collection70_secondary_vegetation_age_v2)
 - [Transitions v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection7/mapbiomas_collection70_transitions_v1)
 
-## Collection 8
+## Collection 8 - 1985 a 2022
 - [Deforestation Frequency v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection8/mapbiomas_collection80_deforestation_frequency_v1)
 - [Integration v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection8/mapbiomas_collection80_integration_v1)
 - [Pasture Quality v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection8/mapbiomas_collection80_pasture_quality_v1)
 - [Secondary Vegetation Age v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection8/mapbiomas_collection80_secondary_vegetation_age_v1)
 - [Transitions v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection8/mapbiomas_collection80_transitions_v1)
 
-## Collection 9
+## Collection 9 - 1985 a 2023
 - [Integration v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection9/mapbiomas_collection90_integration_v1)
 - [Transitions v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection9/mapbiomas_collection90_transitions_v1)
 
-## Collection 10
-- [Integration v2](projects/mapbiomas-public/assets/brazil/lulc/collection10/mapbiomas_brazil_collection10_integration_v2)
+## Collection 10 - 1985 a 2024
+- [Integration v2](https://code.earthengine.google.com/?projects/mapbiomas-public/assets/brazil/lulc/collection10/mapbiomas_brazil_collection10_integration_v2)
 
-## Collection 10.1
-- [Integration v1](projects/mapbiomas-public/assets/brazil/lulc/collection10_1/mapbiomas_brazil_collection10_1_coverage_v1)
+## Collection 10.1 - 1985 a 2024
+- [Integration v1](https://code.earthengine.google.com/?projects/mapbiomas-public/assets/brazil/lulc/collection10_1/mapbiomas_brazil_collection10_1_coverage_v1)
 
 ## Coleção 10m - Sentinel 2 Beta
-- [Coleção 2 - 2016 a 2024 ](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc_10m/collection2/mapbiomas_10m_collection2_integration_v1)
+- [Coleção 2 - 2016 a 2023 ](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc_10m/collection2/mapbiomas_10m_collection2_integration_v1)
 ## Coleção 10m - Sentinel 2 Beta
-- [Coleção 3 - 2017 a 2025 ](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc_10m/collection3/mapbiomas_10m_collection3_integration_v1)
+- [Coleção 3 - 2017 a 2024 ](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc_10m/collection3/mapbiomas_10m_collection3_integration_v1)
