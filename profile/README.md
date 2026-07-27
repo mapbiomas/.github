@@ -13,7 +13,7 @@ Welcome to the official repository hub of MapBiomas, where we provide a comprehe
 - [**Colombia**](https://github.com/mapbiomas/colombia-all-initiatives)
 - [**Democratic Republic of Congo**](https://github.com/mapbiomas/democratic-republic-of-congo-all-initiatives) *(Collection 1 coming soon)*
 - [**Ecuador**](https://github.com/mapbiomas/ecuador-all-initiatives)
-- [**Guiana Shield**](https://github.com/mapbiomas/guiana-shield-all-initiatives) (Guyana, French Guiana and Suriname) *(Collection 1 coming soon)*
+- [**Suriname**](https://github.com/mapbiomas/suriname-all-initiatives) 
 - [**India**](https://github.com/mapbiomas/india-all-initiatives) *(Collection 1 coming soon)*
 - [**Indonesia**](https://github.com/mapbiomas-indonesia)
 - [**Mexico**](https://github.com/mapbiomas/mexico-all-initiatives) *(Collection 1 coming soon)*
