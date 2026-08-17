@@ -16,7 +16,7 @@ Welcome to the official repository hub of MapBiomas, where we provide a comprehe
 - [**Suriname**](https://github.com/mapbiomas/suriname-all-initiatives) 
 - [**India**](https://github.com/mapbiomas/india-all-initiatives) *(Collection 1 coming soon)*
 - [**Indonesia**](https://github.com/mapbiomas-indonesia)
-- [**Mexico**](https://github.com/mapbiomas/mexico-all-initiatives) *(Collection 1 coming soon)*
+- [**Mexico**](https://github.com/mapbiomas/mexico-all-initiatives)
 - [**Paraguay**](https://github.com/mapbiomas/paraguay-all-initiatives)
 - [**Peru**](https://github.com/mapbiomas-peru)
 - [**Uruguay**](https://github.com/mapbiomas/uruguay-all-initiatives)
