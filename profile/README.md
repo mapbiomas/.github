@@ -11,7 +11,7 @@ Welcome to the official repository hub of MapBiomas, where we provide a comprehe
 - [**Brazil**](https://github.com/mapbiomas/brazil-all-initiatives)
 - [**Chile**](https://github.com/mapbiomas/chile-all-initiatives)
 - [**Colombia**](https://github.com/mapbiomas/colombia-all-initiatives)
-- [**Democratic Republic of Congo**](https://github.com/mapbiomas/ddrc-all-initiatives)
+- [**Democratic Republic of Congo**](https://github.com/mapbiomas/drc-all-initiatives)
 - [**Ecuador**](https://github.com/mapbiomas/ecuador-all-initiatives)
 - [**Suriname**](https://github.com/mapbiomas/suriname-all-initiatives) 
 - [**India**](https://github.com/mapbiomas/india-all-initiatives) *(Collection 1 coming soon)*
