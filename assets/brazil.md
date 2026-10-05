@@ -78,6 +78,9 @@
 ## Collection 10.1 - 1985 a 2024
 - [Integration v1](https://code.earthengine.google.com/?projects/mapbiomas-public/assets/brazil/lulc/collection10_1/mapbiomas_brazil_collection10_1_coverage_v1)
 
+## Collection 11 - 1985 a 2025
+- [Integration: 'projects/mapbiomas-public/assets/brazil/lulc/collection10_1/mapbiomas_brazil_collection10_1_coverage_v1']
+
 ## Coleção 10m - Sentinel 2 Beta
 - [Coleção 2 - 2016 a 2023 ](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc_10m/collection2/mapbiomas_10m_collection2_integration_v1)
 ## Coleção 10m - Sentinel 2 Beta
