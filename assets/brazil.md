@@ -79,14 +79,14 @@
 - LULC: 'projects/mapbiomas-public/assets/brazil/lulc/collection10_1/mapbiomas_brazil_collection10_1_coverage_v1'
 
 ## Collection 11 - 1985 a 2025
-- LULC: 'projects/mapbiomas-public/assets/brazil/lulc/collection11/mapbiomas_brazil_collection11_coverage_v3'
-- Deforestation: 'projects/mapbiomas-public/assets/brazil/lulc/collection11/mapbiomas_brazil_collection11_deforestation_secondary_vegetation_v5'
-- Pastagem - Vigor: 'projects/mapbiomas-public/assets/brazil/lulc/collection11/mapbiomas_brazil_collection11_pasture_vigor_v1'
-- Pastagem - Biomassa: 'projects/mapbiomas-public/assets/brazil/lulc/collection11/mapbiomas_brazil_collection11_pasture_biomass_v1'
-- Agricultura - Irrigação: 'projects/mapbiomas-public/assets/brazil/lulc/collection11/mapbiomas_brazil_collection11_agriculture_irrigation_systems_v1'
-- Agricultura - Núm. Ciclos: 'projects/mapbiomas-public/assets/brazil/lulc/collection11/mapbiomas_brazil_collection11_agriculture_number_cycles_v1'
-- Agricultura - 2o Ciclo: 'projects/mapbiomas-public/assets/brazil/lulc/collection11/mapbiomas_brazil_collection11_agriculture_second_crop_v1'
-- Mineração - Substância: 'projects/mapbiomas-public/assets/brazil/lulc/collection11/mapbiomas_brazil_collection11_mining_substances_v1'
+- [LULC](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection11/mapbiomas_brazil_collection11_coverage_v3)
+- [Deforestation](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection11/mapbiomas_brazil_collection11_deforestation_secondary_vegetation_v5)
+- [Pastagem - Vigor](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection11/mapbiomas_brazil_collection11_pasture_vigor_v1)
+- [Pastagem - Biomassa](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection11/mapbiomas_brazil_collection11_pasture_biomass_v1)
+- [Agricultura - Irrigação](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection11/mapbiomas_brazil_collection11_agriculture_irrigation_systems_v1)
+- [Agricultura - Núm. Ciclos](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection11/mapbiomas_brazil_collection11_agriculture_number_cycles_v1)
+- [Agricultura - 2o Ciclo](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection11/mapbiomas_brazil_collection11_agriculture_second_crop_v1)
+- [Mineração - Substância](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection11/mapbiomas_brazil_collection11_mining_substances_v1)
 
 ## Coleção LULC 10m - Sentinel 2 Beta
 - Coleção 2 Beta - 2016 a 2023: 'projects/mapbiomas-public/assets/brazil/lulc_10m/collection2/mapbiomas_10m_collection2_integration_v1'
