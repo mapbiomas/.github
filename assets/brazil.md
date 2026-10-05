@@ -62,21 +62,21 @@
 - [Transitions v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection7/mapbiomas_collection70_transitions_v1)
 
 ## Collection 8 - 1985 a 2022
-- LULC: 'projects/mapbiomas-public/assets/brazil/lulc/collection8/mapbiomas_collection80_integration_v1'
-- Deforestation Frequency: 'projects/mapbiomas-public/assets/brazil/lulc/collection8/mapbiomas_collection80_deforestation_frequency_v1'
-- Pasture Quality: 'projects/mapbiomas-public/assets/brazil/lulc/collection8/mapbiomas_collection80_pasture_quality_v1'
-- Secondary Vegetation Age: 'projects/mapbiomas-public/assets/brazil/lulc/collection8/mapbiomas_collection80_secondary_vegetation_age_v1'
-- Transitions: 'asset=projects/mapbiomas-public/assets/brazil/lulc/collection8/mapbiomas_collection80_transitions_v1'
+- [LULC](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection8/mapbiomas_collection80_integration_v1)
+- [Deforestation Frequency](https://code.earthengine.google.com/?projects/mapbiomas-public/assets/brazil/lulc/collection8/mapbiomas_collection80_deforestation_frequency_v1)
+- [Pasture Quality](https://code.earthengine.google.com/?projects/mapbiomas-public/assets/brazil/lulc/collection8/mapbiomas_collection80_pasture_quality_v1)
+- [Secondary Vegetation Age](https://code.earthengine.google.com/?projects/mapbiomas-public/assets/brazil/lulc/collection8/mapbiomas_collection80_secondary_vegetation_age_v1)
+- [Transitions](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection8/mapbiomas_collection80_transitions_v1)
 
 ## Collection 9 - 1985 a 2023
-- LULC v1: 'projects/mapbiomas-public/assets/brazil/lulc/collection9/mapbiomas_collection90_integration_v1'
-- Transitions v1: 'projects/mapbiomas-public/assets/brazil/lulc/collection9/mapbiomas_collection90_transitions_v1'
+- [LULC v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection9/mapbiomas_collection90_integration_v1)
+- [Transitions v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection9/mapbiomas_collection90_transitions_v1)
 
 ## Collection 10 - 1985 a 2024
-- LULC: 'projects/mapbiomas-public/assets/brazil/lulc/collection10/mapbiomas_brazil_collection10_integration_v2'
+- [LULC](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection10/mapbiomas_brazil_collection10_integration_v2)
 
 ## Collection 10.1 - 1985 a 2024
-- LULC: 'projects/mapbiomas-public/assets/brazil/lulc/collection10_1/mapbiomas_brazil_collection10_1_coverage_v1'
+- [LULC](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection10_1/mapbiomas_brazil_collection10_1_coverage_v1)
 
 ## Collection 11 - 1985 a 2025
 - [LULC](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection11/mapbiomas_brazil_collection11_coverage_v3)
@@ -89,6 +89,6 @@
 - [Mineração - Substância](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection11/mapbiomas_brazil_collection11_mining_substances_v1)
 
 ## Coleção LULC 10m - Sentinel 2 Beta
-- Coleção 2 Beta - 2016 a 2023: 'projects/mapbiomas-public/assets/brazil/lulc_10m/collection2/mapbiomas_10m_collection2_integration_v1'
-- Coleção 3 Beta - 2017 a 2024: 'projects/mapbiomas-public/assets/brazil/lulc_10m/collection3/mapbiomas_10m_collection3_integration_v1'
-- Coleção 4 - 2017 a 2025: 'projects/mapbiomas-public/assets/brazil/lulc_10m/collection4/mapbiomas_10m_collection4_coverage_v1'
+- [Coleção 2 Beta - 2016 a 2023](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc_10m/collection2/mapbiomas_10m_collection2_integration_v1)
+- [Coleção 3 Beta - 2017 a 2024](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc_10m/collection3/mapbiomas_10m_collection3_integration_v1)
+- [Coleção 4 - 2017 a 2025](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc_10m/collection4/mapbiomas_10m_collection4_coverage_v1)
