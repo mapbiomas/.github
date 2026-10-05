@@ -69,19 +69,16 @@
 - [Transitions v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection8/mapbiomas_collection80_transitions_v1)
 
 ## Collection 9 - 1985 a 2023
-- [Integration v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection9/mapbiomas_collection90_integration_v1)
-- [Transitions v1](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc/collection9/mapbiomas_collection90_transitions_v1)
-
+- Integration v1: 'projects/mapbiomas-public/assets/brazil/lulc/collection9/mapbiomas_collection90_integration_v1'
+- Transitions v1: 'projects/mapbiomas-public/assets/brazil/lulc/collection9/mapbiomas_collection90_transitions_v1'
 ## Collection 10 - 1985 a 2024
-- [Integration v2](https://code.earthengine.google.com/?projects/mapbiomas-public/assets/brazil/lulc/collection10/mapbiomas_brazil_collection10_integration_v2)
-
+- Integration: 'projects/mapbiomas-public/assets/brazil/lulc/collection10/mapbiomas_brazil_collection10_integration_v2'
 ## Collection 10.1 - 1985 a 2024
-- [Integration v1](https://code.earthengine.google.com/?projects/mapbiomas-public/assets/brazil/lulc/collection10_1/mapbiomas_brazil_collection10_1_coverage_v1)
-
-## Collection 11 - 1985 a 2025
 - Integration: 'projects/mapbiomas-public/assets/brazil/lulc/collection10_1/mapbiomas_brazil_collection10_1_coverage_v1'
+## Collection 11 - 1985 a 2025
+- Integration: 'projects/mapbiomas-public/assets/brazil/lulc/collection11/mapbiomas_brazil_collection11_coverage_v3'
 
 ## Coleção 10m - Sentinel 2 Beta
-- [Coleção 2 - 2016 a 2023 ](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc_10m/collection2/mapbiomas_10m_collection2_integration_v1)
-## Coleção 10m - Sentinel 2 Beta
-- [Coleção 3 - 2017 a 2024 ](https://code.earthengine.google.com/?asset=projects/mapbiomas-public/assets/brazil/lulc_10m/collection3/mapbiomas_10m_collection3_integration_v1)
+- Coleção 2 Beta - 2016 a 2023: 'projects/mapbiomas-public/assets/brazil/lulc_10m/collection2/mapbiomas_10m_collection2_integration_v1'
+- Coleção 3 Beta - 2017 a 2024: 'projects/mapbiomas-public/assets/brazil/lulc_10m/collection3/mapbiomas_10m_collection3_integration_v1'
+- Coleção 4 - 2017 a 2025: 'projects/mapbiomas-public/assets/brazil/lulc_10m/collection4/mapbiomas_10m_collection4_coverage_v1'
